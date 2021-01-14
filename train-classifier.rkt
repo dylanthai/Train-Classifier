@@ -1,12 +1,13 @@
 ;; The first three lines of this file were inserted by DrRacket. They record metadata
 ;; about the language level of this file in a form that our tools can easily process.
-#reader(lib "htdp-intermediate-lambda-reader.ss" "lang")((modname guess) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #f)))
+#reader(lib "htdp-intermediate-lambda-reader.ss" "lang")((modname train-classifier) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #f)))
 (require "animals.rkt")
 ;;
 ;; *****************************
-;; Dylan Thai (20898721)
+;; Dylan Thai
 ;; CS 135 Fall 2020
-;; Assignment 07, Problem 2
+;; Train Classifier
+;; Train a classifier that can classify the animal given its attributes
 ;; *****************************
 ;;
 
